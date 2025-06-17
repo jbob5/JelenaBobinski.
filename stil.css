@@ -1,0 +1,59 @@
+{@charset "utf-8"}
+/* CSS Document */
+p{
+	color: white;
+	font-family: Times New Roman;
+	font-size: 15px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightgray;
+	padding: 20px;
+}
+.paragraf_2 {color;black; background-color: rgba(0, 0, 0, 0.5)} 
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 10px;
+	margin: 20px;
+	width: 50%;
+}
+
+h3{
+	font-family: Times New Roman;
+	color:gray;
+	font-size: 18px;
+}
+h2{
+	font-family: Times New Roman;
+	color:black;
+	font-size: 20px;
+}
+h1{@font-face {
+    font-family: "JelenaBobinski";
+    src:url("JelenaBobinski.ttf");
+	}
+	font-family: JelenaBobinski;
+	src:url(JelenaBobinski.tff);
+}
+
+span{color: rgb(255, 255, 0);}
+.pozadina{
+	background-image: url("slike/pozadina.png")
+}
+.drugapozadina{
+	background-color: white;
+}
+a:link {
+	color: black;
+	background-color:white;
+	padding:5px;
+	line-height:30px;
+	border:1px solid #000000;
+}
+a:hover {
+	background-color:darkgray;
+}
+img{
+	height: 200px;
+}
+	li {	display:inline;
+		}
