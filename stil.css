@@ -29,10 +29,10 @@ h2{
 }
 h1{@font-face {
     font-family: "JelenaBobinski";
-    src:url("JelenaBobinski.woff2");
+    src:url("JelenaBobinski.tff");
 	}
 	font-family: JelenaBobinski;
-	src:url(JelenaBobinski.woff2);
+	src:url(JelenaBobinski.tff);
 }
 
 span{color: rgb(255, 255, 0);}
